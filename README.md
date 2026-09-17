@@ -1,2 +1,3 @@
 # JAS-Sentinel-SOAR
-High-throughput, asynchronous SIEM &amp; SOAR engine in Python using Polars, TimescaleDB, local firewall hooks (UFW/iptables), and Discord alerts.
+This is a security information and event management (SIEM) and security orchestration, automation, and response (SOAR) engine.
+It is designed to be a high-throughput, asynchronous engine that uses Polars, TimescaleDB, local firewall hooks (UFW/iptables), and Discord alerts.
